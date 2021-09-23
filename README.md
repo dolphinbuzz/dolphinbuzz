@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dolphinbuzz
+- 👋 | Oi,eu sou @dolphinbuzz
 - 🎓 | Ciência da Computação
 - 💻 | Testador de QA
 - 🎮 | Streamer de Jogos - https://linktr.ee/DolphinBuzz
