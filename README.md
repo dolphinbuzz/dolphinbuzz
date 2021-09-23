@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dolphinbuzz
 - 🎓 | Ciência da Computação
 - 💻 | Testador de QA
-- 🎮 | Streamer de Jogos - link na bio
+- 🎮 | Streamer de Jogos - https://linktr.ee/DolphinBuzz
 - 📲 | Criador de Conteudo sobre Cibersegurança
 - 📍| SP -> PE
 
