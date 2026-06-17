@@ -116,5 +116,6 @@ Estou aberto a conversas sobre **qualidade de software**, **automação de teste
 ---
 
 <p align="center">
-  <em>"Qualidade não é um ato, é um hábito."</em> — Aristóteles
+  <em>"Somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito."</em><br/>
+  <sub>Aristóteles, parafraseado por Will Durant</sub>
 </p>
